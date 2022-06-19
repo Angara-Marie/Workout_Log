@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WorkOutLog</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_required">Email is required</string>
+    <string name="password_required">Password is required</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="second_name">Second Name</string>
+    <string name="first_name">First name</string>
+</resources>
